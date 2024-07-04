@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Dheeraj rs, a professional Full Stack Developer With a strong foundation in both frontend and backend technologies, I specialize in creating efficient, scalable, and user-friendly web applications.
+I'm Dheeraj R S, a professional Full Stack Developer With a strong foundation in both frontend and backend technologies, I specialize in creating efficient, scalable, and user-friendly web applications.
 
 - 🔭 I'm currently working with React.js, Next.js, MongoDB, and Laravel
 - 🌱 I'm always learning and staying updated with the latest in web development
@@ -29,16 +29,9 @@ I'm Dheeraj rs, a professional Full Stack Developer With a strong foundation in 
 2. **Real-time Chat Application** - Built with Next.js and Socket.io
 3. **Content Management System** - Developed using Laravel and MySQL
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dheeraj-rs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-rs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## 🤝 Connect with me
 
-<div align="center">
+<div align="start">
 <a href="https://github.com/dheeraj-rs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -51,5 +44,3 @@ I'm Dheeraj rs, a professional Full Stack Developer With a strong foundation in 
 </div>
 
 ---
-
-⭐️ From [dheeraj-rs](https://github.com/dheeraj-rs)
